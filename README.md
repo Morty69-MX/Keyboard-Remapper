@@ -36,3 +36,5 @@ When the script is **active**, the following mappings are applied:
 
 **Note:** When the script is toggled off, your keyboard functions normally.
 
+Thank you very much for your interest and/or support in this project, Greetings from Mexico!
+[![PayPal Donation](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Morty69)
